@@ -9,13 +9,15 @@ Baixe o código fonte do projeto utilizando [Git](https://git-scm.com/), utilize
 git clone -b master https://github.com/wilsonlucena/udf-salas.git
 ```
 
-Instale as dependências PHP da aplicação através do [composer](https://getcomposer.org/):
+Instale as dependências PHP da aplicação que esta na pasta APP através do [composer](https://getcomposer.org/) :
 
 ```bash
 composer install
 ```
 
 ###Informações importantes para desenvolvedores dicas
+
+Na pasta app (esta o laravel ) na pasta prototipo-admin (esta apenas o layout do prototipo do sistema).
 
 #### Adicionar & confirmar
 Você pode propor mudanças (adicioná-las ao Index) usando:
